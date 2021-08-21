@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-moment-timezone-poc/static/css/main.f98488ce.chunk.css",
+    "main.js": "/react-moment-timezone-poc/static/js/main.47e3ac0d.chunk.js",
+    "main.js.map": "/react-moment-timezone-poc/static/js/main.47e3ac0d.chunk.js.map",
+    "runtime-main.js": "/react-moment-timezone-poc/static/js/runtime-main.774d16c1.js",
+    "runtime-main.js.map": "/react-moment-timezone-poc/static/js/runtime-main.774d16c1.js.map",
+    "static/js/2.1412b135.chunk.js": "/react-moment-timezone-poc/static/js/2.1412b135.chunk.js",
+    "static/js/2.1412b135.chunk.js.map": "/react-moment-timezone-poc/static/js/2.1412b135.chunk.js.map",
+    "static/js/3.f57baa80.chunk.js": "/react-moment-timezone-poc/static/js/3.f57baa80.chunk.js",
+    "static/js/3.f57baa80.chunk.js.map": "/react-moment-timezone-poc/static/js/3.f57baa80.chunk.js.map",
+    "index.html": "/react-moment-timezone-poc/index.html",
+    "static/css/main.f98488ce.chunk.css.map": "/react-moment-timezone-poc/static/css/main.f98488ce.chunk.css.map",
+    "static/js/2.1412b135.chunk.js.LICENSE.txt": "/react-moment-timezone-poc/static/js/2.1412b135.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.774d16c1.js",
+    "static/js/2.1412b135.chunk.js",
+    "static/css/main.f98488ce.chunk.css",
+    "static/js/main.47e3ac0d.chunk.js"
+  ]
+}
