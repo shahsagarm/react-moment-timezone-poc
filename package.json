@@ -1,0 +1,58 @@
+{
+    "homepage": "https://shahsagarm.github.io/react-moment-timezone-poc-temp",
+    "name": "react-moment-timezone-poc",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "@material-ui/core": "^4.12.2",
+        "@testing-library/jest-dom": "^5.14.1",
+        "@testing-library/react": "^11.2.7",
+        "@testing-library/user-event": "^12.8.3",
+        "moment": "^2.29.1",
+        "moment-timezone": "^0.5.33",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-scripts": "4.0.3",
+        "rough-notation": "^0.5.1",
+        "web-vitals": "^1.1.2"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "description": "Demo to play with dates according to your system's timezone and a list of supported timezones.",
+    "main": "index.js",
+    "devDependencies": {
+        "gh-pages": "^3.2.3"
+    },
+    "keywords": [
+        "react",
+        "moment",
+        "moment-timezone",
+        "material-ui"
+    ],
+    "author": "Sagar Shah",
+    "license": "MIT"
+}
