@@ -27,8 +27,7 @@ const useStyles = makeStyles((theme) => ({
     root: {
         display: 'flex',
         justifyContent: 'center',
-        alignItems: 'center',
-        height: '100vh'
+        alignItems: 'center'
     },
     heroContent: {
         padding: theme.spacing(4),
@@ -159,7 +158,7 @@ const App = () => {
                                             color="primary"
                                             onClick={() => setCurrentDateTS(Date.now())}
                                         >
-                                            Click this button to see updated date value after changing your system's timezone
+                                            Click here to see updated date value after changing your system's timezone
                                         </Button>
                                     </CardActions>
                                 </Card>
