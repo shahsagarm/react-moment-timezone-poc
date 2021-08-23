@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-moment-timezone-poc/static/css/main.f98488ce.chunk.css",
-    "main.js": "/react-moment-timezone-poc/static/js/main.47e3ac0d.chunk.js",
-    "main.js.map": "/react-moment-timezone-poc/static/js/main.47e3ac0d.chunk.js.map",
+    "main.js": "/react-moment-timezone-poc/static/js/main.f033572b.chunk.js",
+    "main.js.map": "/react-moment-timezone-poc/static/js/main.f033572b.chunk.js.map",
     "runtime-main.js": "/react-moment-timezone-poc/static/js/runtime-main.774d16c1.js",
     "runtime-main.js.map": "/react-moment-timezone-poc/static/js/runtime-main.774d16c1.js.map",
     "static/js/2.1412b135.chunk.js": "/react-moment-timezone-poc/static/js/2.1412b135.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.774d16c1.js",
     "static/js/2.1412b135.chunk.js",
     "static/css/main.f98488ce.chunk.css",
-    "static/js/main.47e3ac0d.chunk.js"
+    "static/js/main.f033572b.chunk.js"
   ]
 }
