@@ -37,4 +37,6 @@ Timezone Play uses below third party libraries and thier installation, if needed
 
 ## License
 MIT
-**Happy Reactoding!**
+
+
+**Happy Reactoding! :dizzy:**
